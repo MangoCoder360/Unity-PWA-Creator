@@ -9,6 +9,7 @@ Requirements:
 
 How to use:
 In the Unity project directory, create a new folder called WebGL (must be named WebGL for program to work)
+Copy the icon for your project to the WebGL folder and name it Icon.jpg (you may need to convert it to a JPG file beforehand)
 Open the Unity project and create a new WebGL Build to the WebGL folder
 Copy the UnityPWA.py script to the WebGL folder and run it
 Follow the prompts to complete the conversion
